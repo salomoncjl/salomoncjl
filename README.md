@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salomoncjl" alt="salomoncjl" /></a> </p>
 
+- 🧉 Mate-AR [Full-Stack MERN](https://mate-ar.vercel.app/home)
+
+- 📖 Minga [Full-Stack MERN](https://minga-salomoncjl.netlify.app/)
+
+- ✈️ Amazing-Events **HTML + CSS + JS**
+
+- 🐕 Pet-Shop **HTML + CSS + JS**
+
+- 🌱 Amazing Events **HTML + CSS**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salomoncjl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salomoncjl" height="30" width="40" /></a>
@@ -17,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salomoncjl&show_icons=true&locale=en&layout=compact" alt="salomoncjl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salomoncjl&show_icons=true&locale=en" alt="salomoncjl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salomoncjl&" alt="salomoncjl" /></p>
