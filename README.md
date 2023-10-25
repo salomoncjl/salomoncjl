@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋, Soy Salomón Contreras</h1>
-<h3 align="center">Desarrollador Full Stack Junior | Web dev | HTML | CSS | Javascript | Agile | MongoDB | Express | React | Node</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salomoncjl&label=Profile%20views&color=0e75b6&style=flat" alt="salomoncjl" /> </p>
+<h3 align="center">Desarrollador Full Stack Junior |HTML|CSS|Javascript|MongoDB|Express|React|Node</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salomoncjl" alt="salomoncjl" /></a> </p>
 
@@ -13,7 +11,7 @@
 
 - 🐕 Pet-Shop **HTML + CSS + JS**
 
-- 🌱 Amazing Events **HTML + CSS**
+- 🌱 Sun Flower **HTML + CSS + Responsive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salomoncjl&show_icons=true&locale=en&layout=compact" alt="salomoncjl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salomoncjl&show_icons=true&locale=en" alt="salomoncjl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salomoncjl&" alt="salomoncjl" /></p>
