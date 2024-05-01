@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salomoncjl" alt="salomoncjl" /></a> </p>
 
-- 🧉 Mate-AR [Full-Stack MERN](https://mate-ar.vercel.app/home)
+- 🧉 [Mate-AR](https://mate-ar.vercel.app/home)
 
-- 📖 Minga [Full-Stack MERN](https://minga-salomoncjl.netlify.app/)
+- 📖 [Minga](https://minga-salomoncjl.netlify.app/)
 
 - ✈️ Amazing-Events **HTML + CSS + JS**
 
-- 🐕 Pet-Shop **HTML + CSS + JS**
+- 🐕 [Pet-Shop](https://salomoncjl.github.io/PetShop/index.html)
 
 - 🌱 Sun Flower **HTML + CSS + Responsive**
 
