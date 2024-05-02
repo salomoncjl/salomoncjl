@@ -7,7 +7,7 @@
 
 - 📖 [Minga](https://minga-salomoncjl.netlify.app/)
 
-- ✈️ Amazing-Events **HTML + CSS + JS**
+- ✈️ [Amazing-Events](https://salomoncjl.github.io/amazing-events/index.html)  
 
 - 🐕 [Pet-Shop](https://salomoncjl.github.io/PetShop/index.html)
 
